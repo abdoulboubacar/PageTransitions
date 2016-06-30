@@ -1,0 +1,26 @@
+{
+    "name": "components/PageTransitions",
+    "description": "A showcase collection of various page transition effects using CSS animations",
+    "type": "component",
+    "homepage": "none",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/codrops/PageTransitions"
+    },
+    "authors": [
+        {
+            "name": "Abdoul BOUBACAR",
+            "email": "arbmainassara@gmail.com"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/pagetransitions.js"
+            ],
+            "files": [
+                "js/pagetransitions.js"
+            ]
+        }
+    }
+}
